@@ -1,0 +1,12 @@
+key.categories.async_glint=ASync_glint
+async_glint.gui.color=Цвет блеска: %s
+async_glint.gui.opacity=Прозрачность блеска: %s%%
+async_glint.color.blue=Синий
+async_glint.color.cyan=Голубой
+async_glint.color.white=Белый
+async_glint.color.gold=Золотой
+async_glint.color.red=Красный
+async_glint.color.green=Зелёный
+async_glint.color.purple=Фиолетовый
+async_glint.color.rainbow=Радужный
+async_glint.color.off=Выключен

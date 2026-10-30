@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ASync_glint-1.12.2
+Implementation-Version: 1.0.2
+FMLCorePluginContainsFMLMod: true
+Specification-Vendor: ASync
+Specification-Title: ASync_glint
+ForceLoadAsMod: true
+Specification-Version: 1
+FMLCorePlugin: dev.async.glint.core.ASyncGlintLoadingPlugin
+Implementation-Vendor: ASync
+

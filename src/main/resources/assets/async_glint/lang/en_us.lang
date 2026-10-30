@@ -1,0 +1,12 @@
+key.categories.async_glint=ASync_glint
+async_glint.gui.color=Glint Color: %s
+async_glint.gui.opacity=Glint Opacity: %s%%
+async_glint.color.blue=Blue
+async_glint.color.cyan=Cyan
+async_glint.color.white=White
+async_glint.color.gold=Gold
+async_glint.color.red=Red
+async_glint.color.green=Green
+async_glint.color.purple=Purple
+async_glint.color.rainbow=Rainbow
+async_glint.color.off=Off
