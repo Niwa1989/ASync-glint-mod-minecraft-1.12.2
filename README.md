@@ -64,7 +64,4 @@ ASync_glint is a legacy Forge coremod. Its class transformer replaces the vanill
 `LayerArmorBase.renderEnchantedGlint` implementation with an optimized renderer.
 Other coremods that transform the same method may be incompatible.
 
-## License
 
-No license has been selected yet. Add a `LICENSE` file before publishing if you
-want to define how other people may use, modify, or redistribute the source.
